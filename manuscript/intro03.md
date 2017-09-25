@@ -43,3 +43,7 @@ JavaScript was standardized in 1997 under the name [ECMAScript](https://en.wikip
 ![ECMAScript/JavaScript versions timeline](images/intro03-02.png)
 
 This book uses the most recently standardized version of JavaScript, called **ES2015** or sometimes **ES6**. This version brings a lot of interesting novelties to the table. It is now well supported by most environments and platforms, starting with web browsers (more details in this [compatibility table](http://kangax.github.io/compat-table/es6/)).
+
+
+#### Next page
+ * [3, 2, 1... Code!](chapter01.md)

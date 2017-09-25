@@ -31,5 +31,5 @@ I wish you a great journey in the wonderful world of JavaScript!
 
 
 
-## Next page
-* [Welcome to programming](manuscript/intro02.md)
+#### Next page
+* [Welcome to programming](intro02.md)

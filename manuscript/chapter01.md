@@ -148,3 +148,6 @@ console.log("4" + "5");
 ```
 
 Check your prediction by executing it.
+
+
+ * [Play with variables](chapter02.md)
