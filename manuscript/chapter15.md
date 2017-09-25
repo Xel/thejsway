@@ -456,3 +456,6 @@ And the associated CSS stylesheet.
 Write a program that adds to the page a list showing the height and width of the element identified by "content".
 
 ![Execution result](images/chapter15-18.png)
+
+
+  * [React to events](manuscript/chapter16.md)

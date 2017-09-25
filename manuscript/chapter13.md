@@ -207,3 +207,6 @@ showChild(document.body.childNodes[0], 0);
 ```
 
 > Use `console.error()` rather than `console.log()` to display an error message in the console.
+
+
+  * [Traverse the DOM](chapter14.md)

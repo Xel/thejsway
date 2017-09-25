@@ -346,3 +346,5 @@ has("contrabass", "chordophone"); // Should show an error message
 > Use `console.error()` rather than `console.log()` to display an error message in the console.
 
 ![Expected result](images/chapter14-05.png)
+
+  * [Modify page structure](manuscript/chapter15.md)

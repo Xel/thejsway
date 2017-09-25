@@ -152,3 +152,5 @@ Follow the beginning of the [Getting started with the Web](https://developer.moz
 1. [CSS basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 ![Expected result](images/chapter12-02.png)
+
+  * [Discover the DOM](chapter13.md)

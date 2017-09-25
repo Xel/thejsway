@@ -379,3 +379,6 @@ const questions = [
 Complete this code to display the questions in the `<div>` element of the page, with a `"Show the answer"` button next to each question. Clicking this button replaces it with the answer for this question.
 
 ![Execution result](images/chapter16-13.png)
+
+
+  * [Manipulate forms](manuscript/chapter17.md)

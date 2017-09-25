@@ -598,3 +598,6 @@ console.log(femaleStudentsResults);
 Refactor it using functional programming. Execution result must stay the same.
 
 ![Execution result](images/chapter10-03.png)
+
+
+  * [Project: a social news program](chapter11.md)

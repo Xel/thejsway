@@ -618,3 +618,6 @@ const countryList = [
 Complete this code to implement country autocompletion.
 
 ![Execution result](images/chapter17-12.png)
+
+
+   * [Animate elements](manuscript/chapter18.md)

@@ -221,3 +221,6 @@ Improve the previous program so that it shows the word written backwards.
 Improve the previous program to check if the word is a palindrome. A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
 
 > `"radar"` should be detected as a palindrome, `"Radar"` too.
+
+
+  * [Understand object-oriented programming](chapter09.md)
