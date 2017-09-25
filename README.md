@@ -1,3 +1,11 @@
+# Added page links to the bottom of pages to make reading easier.
+
+
+
+
+
+
+
 # The JavaScript Way
 
 A modern introduction to an essential language.
