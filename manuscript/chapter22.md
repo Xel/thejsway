@@ -274,3 +274,5 @@ Here is the starting HTML code.
 Write the associated JavaScript code so that a list of links for the first ten planets identifiers (from 1 to 10) is generated automatically. Clicking on a planet link shows information about it.
 
 ![Expected result](images/chapter22-08.png)
+
+  * [Send data to a web server](chapter23.md)

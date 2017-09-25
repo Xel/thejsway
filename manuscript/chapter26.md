@@ -34,3 +34,6 @@ Here are a few screenshots of the expected result.
 ![Success message after adding a new link](images/chapter26-03.png)
 
 ![Updated link list](images/chapter26-04.png)
+
+
+  * [Summary and perspectives](concl01.md)

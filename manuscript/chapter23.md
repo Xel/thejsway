@@ -220,3 +220,6 @@ The goal of this exercise is to send your traveling info to a server. Data is ex
 This data must be sent to the URL `https://thejsway-server.herokuapp.com/api/countries`. You should receive a confirmation message from the server and display it in the console.
 
 ![Execution result](images/chapter23-06.png)
+
+
+  * [Discover Node.js](chapter24.md)

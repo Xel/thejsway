@@ -361,3 +361,6 @@ Add a `"/api/countries"` route to your server to manager traveler information re
 Add a `"/articles"` route to your server. This route should accept a new blog article as form data and add it to the server's article list, like in the chapter 23 exercise. The new article ID must be equal to the maximum ID among existing articles plus one.
 
 ![Execution result](images/chapter23-05.png)
+
+
+  * [Project: a social news web app](chapter26.md)

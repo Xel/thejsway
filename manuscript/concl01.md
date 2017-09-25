@@ -69,3 +69,6 @@ When facing a problem, knowing how to find the best answers is a critical skill.
 Lastly, you could join a learning community in order to share experiences (good or bad) and build relationships. There are JavaScript user groups in many cities of the world, look for one in your neighborhood. Should you prefer socializing online, Quincy Larson's [freeCodeCamp](https://www.freecodecamp.org) features a broad curriculum including many projects and a helpful, beginner-friendly community.
 
 Whichever road you may take, I wish you a great journey into the wonderful world of JavaScript!
+
+
+  * [Acknowledgements](concl02.md)

@@ -260,3 +260,6 @@ Start from the following HTML code.
 Write the JavaScript code that fills a table with details about the paintings.
 
 ![Expected result](images/chapter21-07.png)
+
+
+  * [Use web APIs](chapter22.md)

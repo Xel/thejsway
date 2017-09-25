@@ -347,4 +347,4 @@ has("contrabass", "chordophone"); // Should show an error message
 
 ![Expected result](images/chapter14-05.png)
 
-  * [Modify page structure](manuscript/chapter15.md)
+  * [Modify page structure](chapter15.md)

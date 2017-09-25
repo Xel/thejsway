@@ -15,3 +15,6 @@ Illustration credits:
 
 * Cover logo: [Creative blue swirl](http://www.logoopenstock.com/logo/preview/64186/creative-blue-swirl-logo-design) by [Free Logo Design](http://www.free-logodesign.com/).
 * ECMAScript Releases: [The Deep Roots of Javascript Fatigue](https://segment.com/blog/the-deep-roots-of-js-fatigue/).
+
+
+  * [Environment setup](appendix01.md)

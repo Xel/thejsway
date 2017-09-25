@@ -194,3 +194,6 @@ JSON, or **JavaScript Object Notation**, is a textual syntax for describing stru
 A JSON document is a set of name/value pairs. Name are always within double quotes `""`. Values can be numbers, strings, booleans, arrays or objects.
 
 Many programming languages have native support for the JSON format... Including JavaScript, of course!
+
+
+  * [Query a web server](chapter21.md)

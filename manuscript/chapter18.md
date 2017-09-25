@@ -346,3 +346,6 @@ Write the JavaScript code that makes the ball bounce horizontally.
 ![Execution result](images/chapter18-04.png)
 
 T> Create a variable with values 1 or -1 to know in which direction the ball should move.
+
+
+  * [Project: a social news web page](chapter19.md)

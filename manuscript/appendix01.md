@@ -145,3 +145,5 @@ Check out the following links to discover more about browser developer tools:
 * [OpenClassrooms - Optimize your website with DevTools](https://openclassrooms.com/courses/optimize-your-website-with-devtools).
 * [Chrome DevTools Overview](https://developer.chrome.com/devtools).
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools).
+
+  * [Style guide](appendix02.md)

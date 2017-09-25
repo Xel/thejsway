@@ -458,4 +458,4 @@ Write a program that adds to the page a list showing the height and width of the
 ![Execution result](images/chapter15-18.png)
 
 
-  * [React to events](manuscript/chapter16.md)
+  * [React to events](chapter16.md)
